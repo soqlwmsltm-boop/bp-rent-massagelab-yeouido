@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://massagelab-yeouido.xyz/sitemap.xml
+Sitemap: https://massagelab-yeouido.xyz/sitemap-index.xml
